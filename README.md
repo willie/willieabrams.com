@@ -1,2 +1,1 @@
-# willieabrams.com
-vanity
+Hello, world!
