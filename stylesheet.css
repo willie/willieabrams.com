@@ -2,6 +2,7 @@ body {
   color: rgb(30, 30, 30);
   background: rgb(255, 255, 255);
   padding: 20px;
+  font-size: 14pt;
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -9,5 +10,6 @@ body {
     color: rgb(255, 255, 255);
     background: rgb(30, 30, 30);
     padding: 20px;
+    font-size: 14pt;
   }
 }
