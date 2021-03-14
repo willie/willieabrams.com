@@ -2,8 +2,16 @@ body {
   color: rgb(30, 30, 30);
   background: rgb(255, 255, 255);
   padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+               "Helvetica Neue", sans-serif;
 }
 
+code {
+  font-family: SFMono-Regular, Menlo, Monaco,
+               Consolas, "Liberation Mono",
+               "Courier New", monospace;
+}
 @media screen and (prefers-color-scheme: dark) {
   body {
     color: rgb(255, 255, 255);
